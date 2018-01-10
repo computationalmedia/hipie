@@ -7,6 +7,11 @@ Furthermore, it allows users to add and compare their own videos.
 " target="_blank"><img src="http://img.youtube.com/vi/x5xIf4vUScI/0.jpg" 
 alt="x5xIf4vUScI" width="240" height="180" border="10" /></a>
 
+<div class="something" markdown="1">
+  ## Heading 2
+  Some **bold** text.
+</div>
+
 # How to run HIP-DEMO?
 A public available version of HIP-DEMO is hosted at http://www.hipdmeo.ml. If one wants to run a local version, please follow these steps:
 1. Clone the repo
