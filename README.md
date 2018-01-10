@@ -8,8 +8,7 @@ Furthermore, it allows users to add and compare their own videos.
 alt="x5xIf4vUScI" width="240" height="180" border="10" /></a>
 
 <div class="something" markdown="1">
-  ## Heading 2
-  Some **bold** text.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/x5xIf4vUScI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 # How to run HIP-DEMO?
