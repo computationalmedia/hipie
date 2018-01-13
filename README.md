@@ -4,8 +4,8 @@ It has additional visualizations of TED videos and VEVO musicians.
 Furthermore, it allows users to add and compare their own videos.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x5xIf4vUScI
-" target="_blank"><img src="http://img.youtube.com/vi/x5xIf4vUScI/0.jpg" 
-alt="x5xIf4vUScI" width="480" height="360" border="10" /></a>
+" target="_blank"><img src="https://github.com/computationalmedia/hipdemo/blob/master/screenshot.jpeg" 
+alt="x5xIf4vUScI" width="720" height="540" border="10" /></a>
 
 # How to run HIPie?
 A public available version of HIPie is hosted at http://www.hipdmeo.ml. If one wants to run a local version, please follow these steps:
