@@ -5,7 +5,7 @@ Furthermore, it allows users to add and compare their own videos.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x5xIf4vUScI
 " target="_blank"><img src="https://github.com/computationalmedia/hipdemo/blob/master/screenshot.jpeg" 
-alt="x5xIf4vUScI" width="720" height="540" border="10" /></a>
+alt="x5xIf4vUScI" width="480" height="320" border="10" /></a>
 
 # Citation
 The project was introduced in this [paper](https://arxiv.org/pdf/1801.04117.pdf):
