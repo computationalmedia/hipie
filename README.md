@@ -7,6 +7,12 @@ Furthermore, it allows users to add and compare their own videos.
 " target="_blank"><img src="https://github.com/computationalmedia/hipdemo/blob/master/screenshot.jpeg" 
 alt="x5xIf4vUScI" width="720" height="540" border="10" /></a>
 
+# Citation
+The project was introduced in this [paper](https://arxiv.org/pdf/1801.04117.pdf):
+```
+KONG, Q., RIZOIU, M.-A., WU, S., AND XIE, L. 2018. Will this video go viral? Explaining and predicting the popularity of youtube videos. (p. 1)
+```
+
 # How to run HIPie?
 A public available version of HIPie is hosted at http://www.hipdmeo.ml. If one wants to run a local version, please follow these steps:
 1. Clone the repo
