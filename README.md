@@ -14,7 +14,7 @@ KONG, Q., RIZOIU, M.-A., WU, S., AND XIE, L. 2018. Will this video go viral? Exp
 ```
 
 # How to run HIPie?
-A public available version of HIPie is hosted at http://www.hipdmeo.ml. If one wants to run a local version, please follow these steps:
+A public available version of HIPie is hosted at http://www.hipie.ml. If one wants to run a local version, please follow these steps:
 1. Clone the repo
 2. Fill in the Google developer key in file: scripts/youtube_crawler.py
 3. Install required R packages by running requiredPackages.R
