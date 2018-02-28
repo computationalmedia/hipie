@@ -10,7 +10,11 @@ alt="x5xIf4vUScI" width="480" height="320" border="10" /></a>
 # Citation
 The project was introduced in this [paper](https://arxiv.org/pdf/1801.04117.pdf):
 ```
-KONG, Q., RIZOIU, M.-A., WU, S., AND XIE, L. 2018. Will this video go viral? Explaining and predicting the popularity of youtube videos. (p. 1)
+Quyu Kong, Marian-Andrei Rizoiu, Siqi Wu, and Lexing Xie. 2018. Will
+This Video Go Viral? Explaining and Predicting the Popularity of Youtube
+Videos. In WWW ’18 Companion: The 2018 Web Conference Companion,
+April 23–27, 2018, Lyon, France. ACM, New York, NY, USA, 4 pages. 
+https://doi.org/10.1145/3184558.3186972
 ```
 
 # How to run HIPie?
