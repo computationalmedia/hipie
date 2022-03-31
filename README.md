@@ -18,7 +18,7 @@ https://doi.org/10.1145/3184558.3186972
 ```
 
 # How to run HIPie?
-A public available version of HIPie is hosted at http://www.hipie.ml. If one wants to run a local version, please follow these steps:
+A public available version of HIPie is hosted at http://115.146.87.115/ . If one wants to run a local version, please follow these steps:
 1. Clone the repo
 2. Fill in the Google developer key in file: scripts/youtube_crawler.py
 3. Install required R packages by running requiredPackages.R
